@@ -10,3 +10,6 @@ Cannot yet ignore X Frame Headers, which limits the available websites
 
 # How To Use
 To use this program, simply open Start.js and copy the code seen there into the URL portion of a new bookmark. Name the bookmark whatever you wish, and have fun!
+
+# Password
+The default password is "war", and it can only be changed within the code. The password itself is encrypted in Base64 encryption, use a decoder/encoder tool to change the password. The password variable is "encodedStr". Look for that in the code. Place new password in the quotation marks.
